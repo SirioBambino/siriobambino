@@ -19,7 +19,7 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="/logos/ps.png" alt="photoshop" width="40" height="40"/> </a>
 </p>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirbambi&langs_count=5&layout=compact&theme=dark&bg_color=00000000&title_colour=E6EDF3&text_colour=E6EDF3&border_colour=E6EDF3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siriobambino&langs_count=5&layout=compact&theme=dark&bg_color=00000000&title_colour=E6EDF3&text_colour=E6EDF3&border_colour=E6EDF3" />
 </div>
 
 <h3 align="center">Connect with me</h3>
